@@ -87,6 +87,7 @@
     font-size: 21px;
     margin: 0 3px;
     cursor: pointer;
+ transition: .4s ease-in;
 } 
 
 .btn-sm{
